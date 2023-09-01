@@ -19,7 +19,7 @@
         margin-top: 5px;">
         <img src="./media/profile.jpeg" alt="Profile Picture" width="100" style="border-radius: 5px; 
             margin-right: 20px;"/>
-        <vl style="border-left: 2px solid #fafafaaa;">
+        <vl style="border-left: 2px solid #fafafaaa;"/>
         <p  style="text-align: justify;
             text-justify: inter-word; 
             margin-left:20px; 
@@ -36,7 +36,7 @@
     justify-content: center;
     margin-top: 5px;">
         <h3 style="width: 15vw;"> Machine learning and Data Science </h3>
-        <vl style="border-left: 2px solid #fafafaaa;">
+        <vl style="border-left: 2px solid #fafafaaa;"/>
         <p style="text-align: justify;
             text-justify: inter-word; 
             margin-left:20px; 
@@ -50,7 +50,7 @@
         justify-content: center;
         margin-top: 5px;">
         <h3 style="width: 15vw;;"> Programming Languages </h3>
-        <vl style="border-left: 2px solid #fafafaaa;">
+        <vl style="border-left: 2px solid #fafafaaa;"/>
         <p style="text-align: justify;
             text-justify: inter-word; 
             margin-left:20px; 
@@ -64,7 +64,7 @@
         justify-content: center;
         margin-top: 5px;">
         <h3 style="width: 15vw;;"> Software Development And Problem Solving </h3>
-        <vl style="border-left: 2px solid #fafafaaa;">
+        <vl style="border-left: 2px solid #fafafaaa;"/>
         <p style="text-align: justify;
             text-justify: inter-word; 
             margin-left:20px; 
@@ -78,7 +78,7 @@
         justify-content: center;
         margin-top: 5px;">
         <h3 style="width: 15vw;;"> Design and Creativity </h3>
-        <vl style="border-left: 2px solid #fafafaaa;">
+        <vl style="border-left: 2px solid #fafafaaa;"/>
         <p style="text-align: justify;
             text-justify: inter-word; 
             margin-left:20px;
@@ -92,7 +92,7 @@
         justify-content: center;
         margin-top: 5px;">
         <h3 style="width: 15vw;;"> Languages </h3>
-        <vl style="border-left: 2px solid #fafafaaa;">
+        <vl style="border-left: 2px solid #fafafaaa;"/>
         <p style="text-align: justify;
             text-justify: inter-word; 
             margin-left:20px; width:45vw;"> 
