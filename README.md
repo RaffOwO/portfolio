@@ -27,11 +27,10 @@
             margin-left:20px; 
             width:45vw;"> 
             I'm a Software Engineer graduate with experience in Machine Learning and Data Science. 
-            On top of that I have a strong passion for technology and innovation. I love to learn new things and I'm always looking for new challenges. I'm a team player and I like to share my knowledge with others. I'm also a very creative person and I like to express my creativity through design and art.
+            On top of that I have a strong passion for technology and innovation. I love to learn new things and I'm always looking for new challenges. I'm a team player and I like to share my knowledge with others. I'm also a very creative person and I like to express my creativity through different 3d modelling, art and more.
         </p>
     </div>
     <h2>🛠 Skills</h2>
-    A snapshot of my skills:
     <div style="display: flex; 
     flex-direction: row; 
     align-items: center;
@@ -43,7 +42,7 @@
             text-justify: inter-word; 
             margin-left:20px; 
             width: 45vw;"> 
-            I am well-versed in machine learning concepts and techniques, including data preprocessing, feature engineering, model training and evaluation, and model deployment. I have experience with advanced techniques for example knowledge distillation processes and have contributed to projects that involve real-world data analysis.
+            I am well-versed in machine learning concepts and techniques, including data preprocessing, feature engineering, model training and evaluation, and model deployment. I have experience with advanced techniques for example knowledge distillation, prompt engineering and more. Thanks to multiples contributions in projects that involve real-world data analysis.
         </p>
     </div>
     <div style="display: flex; 
@@ -57,7 +56,7 @@
             text-justify: inter-word; 
             margin-left:20px; 
             width:45vw;"> 
-            I have a comprehensive understanding of various programming languages, such as Python, Java, C, C++, C#, JavaScript, HTML, CSS, SQL, PHP, Bash, and GOLang. This proficiency enables me to approach diverse projects with the right tools and technologies. I am also familiar with the Linux environment and the Git version control system.
+            I have a comprehensive understanding of various programming languages, such as Python, Java, C, C++, C#, JavaScript, CSS, SQL, PHP, Bash, and GOLang. This proficiency enables me to approach diverse projects with the right tools and technologies. I am also familiar with the Linux environment and the Git version control system.
         </p>
     </div>
     <div style="display: flex; 
@@ -131,9 +130,9 @@
     <h2>♟ Individual Projects</h2>
     <h3>vesuveus</h3>
     <p style="text-align: justify;
-        text-justify: inter-word; 
+        text-justify: inter-word;
         width:66vw;"> 
-        a 3D printed keyboard, with a focus on compactness, ergonomics, and functionality. For more information, visit the <a href="https://github.com/RaffOwO/vesuveus">vesuveus</a> repository.
+        A Handwired 3D printed keyboard, with a focus on compactness, ergonomics, and functionality. One of my passions is mechanical keyboards, and I wanted to create my own. This project allowed me to create a custom keyboard that fits my needs and preferences. Learning how to design a 3D model, how to use a 3D printer, and how to solder were some of the skills I acquired during this project. For more information, and the project files visit the <a href="https://github.com/RaffOwO/vesuveus">vesuveus</a> repository.
         <div style="display: flex; 
         flex-direction: row; 
         align-items: center;
