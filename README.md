@@ -142,7 +142,7 @@
             <img src="./media/iconwide.png" alt="vesuveus keyboard" width="400" style="border-radius: 10px;" />
         </p>
         <p align="center" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-            <img src="./media/1stBuildRaffOwO.jpg" alt="vesuveus keyboard" width="250" style="border-radius: 10px;" />
+            <img src="./media/mk3build.jpeg" alt="vesuveus keyboard" width="350" style="border-radius: 10px;" />
         </p>
         </div>
     </p>
