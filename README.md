@@ -1,3 +1,8 @@
+<content style="background-color: #1e1e1e1e
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fafafaaa;"> 
+
+
 <div style="display: flex; 
     flex-direction: row; 
     align-items: center;
@@ -182,3 +187,4 @@
             </div>
     </div>
 </div>
+</content>
