@@ -1,4 +1,9 @@
-<content style="background-color: #1e1e1e1e
+<content style=" display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        background-color: #1e1e1e1e
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         color: #fafafaaa;"> 
 
