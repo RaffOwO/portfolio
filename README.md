@@ -2,10 +2,8 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 100vw;
-        background-color: #1e1e1e1e
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        color: #fafafaaa;"> 
+        width: 100vw; 
+        font-family: 'Lato', sans-serif;"> 
 
 
 <div style="display: flex; 
