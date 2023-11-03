@@ -1,9 +1,3 @@
-<content style=" display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        width: 100vw; 
-        font-family: 'Lato', sans-serif;"> 
 
 
 <div style="display: flex; 
@@ -116,7 +110,7 @@
     </div>
     <h2>💻 Work Experience</h2>
     <h3>IT Researcher at <a href="https://www.coritel.it/">CoRiTeL</a>  </h3>
-    <p style="font-weight: bold;"> Novemver 2022 - Present </p>
+    <p style="font-weight: bold;"> November 2022 - Present </p>
     <p style="text-align: justify;
         text-justify: inter-word; 
         font-style: italic;
@@ -142,11 +136,11 @@
         During my internship at Ericsson, I played a pivotal role in developing an application using GoLang and creating a Docker image. This initiative aimed to ensure efficient management of the lifecycle of containerized applications within a Kubernetes environment. Through this experience, I acquired expertise in implementing best practices for developing containerized applications. Throughout the internship, I encountered stimulating challenges, familiarized myself with company procedures, and gained a profound understanding of the dynamics of the telecommunications industry.
     </p>
     <h2>♟ Individual Projects</h2>
-    <h3>vesuveus</h3>
+    <h3 style="font-family: 'Lucida Console';">VESUVEUS</h3>
     <p style="text-align: justify;
         text-justify: inter-word;
         width:66vw;"> 
-        A Handwired 3D printed keyboard, with a focus on compactness, ergonomics, and functionality. One of my passions is mechanical keyboards, and I wanted to create my own. This project allowed me to create a custom keyboard that fits my needs and preferences. Learning how to design a 3D model, how to use a 3D printer, and how to solder were some of the skills I acquired during this project. For more information, and the project files visit the <a href="https://github.com/RaffOwO/vesuveus">vesuveus</a> repository.
+        A Handwired 3D printed keyboard, with a focus on compactness, ergonomics, and functionality. One of my passions is mechanical keyboards, and I wanted to create my own. This project allowed me to create a custom keyboard that fits my needs and preferences. This work is a mix of software and hardware, and it allowed me to learn a lot of new things. 3D modelling, 3D printing, Logo design, prototype testing, and a lot more. For more information, and the project files visit the <a href="https://github.com/RaffOwO/vesuveus">vesuveus</a> repository.
         <div style="display: flex; 
         flex-direction: row; 
         align-items: center;
@@ -196,4 +190,3 @@
             </div>
     </div>
 </div>
-</content>
